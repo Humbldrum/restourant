@@ -767,3 +767,63 @@ top: 6327px;
 border-radius: 0px;
 background-repeat: no-repeat;
 }
+
+
+
+
+
+
+
+@media screen and (max-device-width: 1280px ) {
+
+
+body {
+  display: grid;
+}
+
+
+
+.header {
+  margin: 0%;
+  display: block;
+  max-height: 1000px;
+  max-height: 1500px ;
+  }
+
+
+
+.invite {
+width: 100%;
+}
+
+
+
+.history-img {
+
+
+
+
+
+}
+
+
+
+
+
+
+  .back-1 {
+
+margin: 0%;
+size: 100%;
+
+}
+
+
+
+
+}
+
+
+
+
+
