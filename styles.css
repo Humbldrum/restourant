@@ -773,12 +773,12 @@ background-repeat: no-repeat;
 
 
 
-
 @media screen and (max-device-width: 1280px ) {
 
 
 body {
   display: grid;
+  width: 100%;
 }
 
 
@@ -798,15 +798,19 @@ width: 100%;
 
 
 
-.wiew-txt  {
-font-size: 12px;
-
+.wiew-txt {
+display: flex;
+  font-size: 12px;
+width: 100%;
 
 
 }
 
 
+.cards {
 
+  display: flex;
+}
 
 
 
@@ -820,7 +824,31 @@ size: 100%;
 
 
 
+
+.history-desc {
+
+font-size: 11px;
+
+
 }
+
+
+.weview-txt {
+width: auto;
+
+}
+
+
+
+
+
+
+}
+
+
+
+
+
 
 
 
